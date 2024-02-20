@@ -1,0 +1,15 @@
+public class Person {
+    String name;
+    int age;
+    String gender;
+    }
+    public static int getName(String str, int i, String str){
+        return;
+    public static void main(String[] args) {
+
+
+
+    }}}
+//    Необходимо создать класс Person с полями: имя, возраст, пол. Класс должен иметь
+//        метод - getName, метод возвращает имя с префиксом “Mr. ” если пол
+//        указан как мужской и префикс “Mrs. ” если женский.
